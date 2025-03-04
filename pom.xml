@@ -218,7 +218,7 @@
         </plugins>
     </build>
 
-    <url>https://github.com/[ORG Name]/[Project Name]</url>
+    <url>https://github.com/com.huaweicloud/huaweicloud-iot-edge-sdk-java</url>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
@@ -227,21 +227,21 @@
     </licenses>
 
     <organization>
-        <name>[ORG Name]</name>
-        <url>https://github.com/[ORG Name]</url>
+        <name>com.huaweicloud</name>
+        <url>https://github.com/com.huaweicloud</url>
     </organization>
 
     <developers>
         <developer>
-            <name>[Author Name]</name>
-            <email>[Author Email]</email>
+            <name>hezhangjian</name>
+            <email>hezhangjian97@gmail.com</email>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:[ORG Name]/[Project Name].git</connection>
-        <developerConnection>scm:git:git@github.com:[ORG Name]/[Project Name].git</developerConnection>
-        <url>git@github.com:[ORG Name]/[Project Name].git</url>
+        <connection>scm:git:git@github.com:com.huaweicloud/huaweicloud-iot-edge-sdk-java.git</connection>
+        <developerConnection>scm:git:git@github.com:com.huaweicloud/huaweicloud-iot-edge-sdk-java.git</developerConnection>
+        <url>git@github.com:com.huaweicloud/huaweicloud-iot-edge-sdk-java.git</url>
         <tag>HEAD</tag>
     </scm>
 
